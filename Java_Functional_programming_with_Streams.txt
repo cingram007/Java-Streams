@@ -1,0 +1,6 @@
+Taken from :
+
+Functional Programming with Java Streams API   on YouTube
+Amigoscode
+
+https://www.youtube.com/watch?v=f5j1TaJlc0w&t=645s
